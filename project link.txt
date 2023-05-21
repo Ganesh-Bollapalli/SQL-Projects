@@ -1,9 +1,0 @@
-https://github.com/istephen77/SQL_Project_UK_Road_Safety_And_World_Population_Analysis/blob/main/iNeuron_SQL_Project_2.sql
-
-https://github.com/LoicChamplong/Data-Analysis-SQL/blob/master/Analysis_of_the_2015_World_population/Analysis.ipynb
-
-------------------------------------
-
-use uk data and do own analysis
-
-from second link use population analysis
