@@ -1,6 +1,6 @@
 # SQL-Projects
 * Analysis of UK Accident data using MYSQL WorkBench
-* Analysis of World Population data using Jupyter Notebook.
+* Analysis of World Population data using Jupyter Notebook
 
 ## Data Sets
 * UK_Accident_Data.csv ( UK accident data 2005)
