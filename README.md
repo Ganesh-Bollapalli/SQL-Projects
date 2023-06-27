@@ -8,4 +8,4 @@
 
 ## Tools Used
 * MySql WorkBench 8.0 
-* Jupyter NoteBook python
+* Jupyter NoteBook python (python -m notebook in cmd)
